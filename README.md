@@ -1,4 +1,4 @@
 # Calculator-Python
 Calculator Graphical User Interface
 *By Bamboothesecond
-*This is a fully-working calculator graphical user-interface, I believe this is not 100% functional especially I haven't made the output box a read only, and encountering *some errors when clicking the box, sometimes getting duplicate value whenever inputting a single value. This is for personal purposes only.
+*This calculator has a graphical user interface that is fully functional. However, I don't think it's completely flawless yet. For instance, I haven't made the output box *read-only, and I've been experiencing some errors when clicking on it, such as getting a duplicate value when inputting a single one. It's important to note that this *calculator is intended for personal use only.
